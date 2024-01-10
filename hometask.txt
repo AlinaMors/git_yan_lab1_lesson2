@@ -7,3 +7,11 @@ index 6988c8d..975e13a 100644
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch).
  
  You must receive some image as in demo branch
+
+Коммитов 6:
+1) init;
+2) heat added;
+3) boots;
+4) README added;
+5) dots;
+6) fix readme.
